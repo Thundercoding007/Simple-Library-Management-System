@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1702237621 source:c:\users\91899\desktop\psap course project\course project 3\psap cp 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1702926250 source:c:\users\91899\onedrive\desktop\psap course project\course project 3\psap cp 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
